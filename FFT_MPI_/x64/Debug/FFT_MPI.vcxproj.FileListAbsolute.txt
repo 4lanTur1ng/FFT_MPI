@@ -1,0 +1,2 @@
+D:\Parallel Program Codes\FFT_MPI\x64\Debug\FFT_MPI.exe
+D:\Parallel Program Codes\FFT_MPI_\x64\Debug\FFT_MPI.exe
